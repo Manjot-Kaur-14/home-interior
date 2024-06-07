@@ -1,0 +1,26 @@
+img {
+    margin-left: 2%;
+    margin-top: 2%;
+    /* border: 20px groove gold; */
+}
+
+a {
+    width: 250px;
+    padding: 5px;
+    margin: 5px;
+    text-decoration: none;
+    border: 1px solid brown;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 10px;
+    display: inline-block;
+    text-align: center;
+    color: brown;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+
+a:hover {
+    background-color: brown;
+    color: white;
+}
