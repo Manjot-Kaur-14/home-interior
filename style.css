@@ -1,7 +1,6 @@
 img {
     margin-left: 2%;
     margin-top: 2%;
-    /* border: 20px groove gold; */
 }
 
 a {
@@ -23,4 +22,58 @@ a {
 a:hover {
     background-color: brown;
     color: white;
+}
+.b1{
+    border: 10px groove rgb(48, 16, 3);
+}
+.b2{
+    border: 10px groove rgb(52, 1, 49);
+}
+.b3{
+    border: 10px groove rgb(105, 81, 2);
+}
+.b4{
+    border: 10px groove rgb(129, 114, 2);
+}
+.b5{
+    border: 10px groove rgb(40, 67, 77);
+}
+.b6{
+    border: 10px groove rgb(56, 17, 1);
+}
+.b7{
+    border: 10px groove rgb(155, 132, 4);
+}
+.b8{
+    border: 10px groove rgb(99, 96, 95);
+}
+.b9{
+    border: 10px groove rgb(75, 64, 2);
+}
+.b10{
+    border: 10px groove rgb(71, 70, 70);
+}
+.b11{
+    border: 10px groove rgb(123, 123, 124);
+}
+.b12{
+    border: 10px groove rgb(76, 75, 75);
+}
+/* kitchen */
+.b13{
+    border: 10px groove rgb(159, 158, 158);
+}
+/* living room */
+.b14{
+    border: 10px groove goldenrod;
+}
+.b15{
+    border: 10px groove rgb(41, 18, 1);
+}
+/* washroom */
+.b16{
+    border: 10px groove gold;
+}
+.b17{
+    border: 15px groove rgb(47, 47, 47);
 }
